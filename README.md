@@ -10,7 +10,7 @@ The goal is to use it in the discovery of the new Java 16 applications packager 
 ## Step 0 : Install the jpackage dependencies for your OS
 * Debian Linux : fakeroot
 * Red Hat Linux : rpm-build
-* Windows : Wix 3+
+* Windows : [Wix 3+](https://wixtoolset.org/releases/)
 * MacOS : XCode for signed application and personalized icon for DMG format
 
 ## Step 1 : Simple packaging
